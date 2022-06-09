@@ -5,9 +5,9 @@ class DB
 {
         // Các biến thông tin kết nối
     private $hostname = 'localhost',
-            $username = 'tmomohost5k_demban',
-            $password = 'tmomohost5k_demban',
-            $dbname = 'tmomohost5k_demban';
+            $username = 'root',
+            $password = '',
+            $dbname = 'api_momo_2022';
     // Biến lưu trữ kết nối
     public $cn = NULL;
  
